@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyttsx3 = "*"
+wolframalpha = "*"
+speechrecognition = "*"
+wikipedia = "*"
+ecapture = "==0.1.8"
+pyjokes = "*"
+requests = "*"
+twilio = "*"
+beautifulsoup4 = "*"
+pipwin = "*"
+pyaudio = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.8"
